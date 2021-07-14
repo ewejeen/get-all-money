@@ -1,0 +1,6 @@
+.centered {
+    height: 100vh; /* viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
